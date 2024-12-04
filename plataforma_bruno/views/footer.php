@@ -1,0 +1,1 @@
+<p>&copy; 2024 Site de Artes Marciais - Bruno Rodrigues - GitHub: <a href="https://github.com/brunoroddrigues" style="color: blue;">brunoroddrigues</a></p>
