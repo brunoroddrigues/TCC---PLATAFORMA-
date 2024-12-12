@@ -37,9 +37,9 @@ A loja permite:
 Além da loja, a plataforma oferece **páginas de conteúdo educativo**, com artigos e vídeos sobre diferentes estilos de artes marciais, tais como:
 - **Jiu-Jitsu**
 - **Karate**
+- **Capoeira**
 - **Muay Thai**
 - **Boxe**
-- **Taekwondo**
 - **Kung Fu**
 - **MMA**
 
