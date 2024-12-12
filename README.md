@@ -8,6 +8,11 @@
 #Loja
 ![Sem título](https://github.com/user-attachments/assets/26e8ab13-dcfc-4e6e-9210-04e088925426)
 
+#Pagamento
+![16](https://github.com/user-attachments/assets/13dddd10-1919-4a34-8563-4e34e8ac474a)
+
+
+
 # E-commerce de Produtos de Artes Marciais
 
 Bem-vindo ao projeto **ArtesMarciaisShop**, uma plataforma de e-commerce dedicada a fornecer produtos e conteúdo educacional sobre várias modalidades de artes marciais. Nosso objetivo é oferecer uma experiência única para praticantes e entusiastas, com uma loja de produtos especializada e uma seção de conteúdo educativo que abrange as principais artes marciais.
