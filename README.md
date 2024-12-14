@@ -17,7 +17,7 @@
 
 # E-commerce de Produtos de Artes Marciais
 
-Bem-vindo ao projeto **ArtesMarciaisShop**, uma plataforma de e-commerce dedicada a fornecer produtos e conteúdo educacional sobre várias modalidades de artes marciais. Nosso objetivo é oferecer uma experiência única para praticantes e entusiastas, com uma loja de produtos especializada e uma seção de conteúdo educativo que abrange as principais artes marciais.
+Bem-vindo ao projeto **FightStore**, uma plataforma de e-commerce dedicada a fornecer produtos e conteúdo educacional sobre várias modalidades de artes marciais. Nosso objetivo é oferecer uma experiência única para praticantes e entusiastas, com uma loja de produtos especializada e uma seção de conteúdo educativo que abrange as principais artes marciais.
 
 ---
 
