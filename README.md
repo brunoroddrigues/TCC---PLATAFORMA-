@@ -1,6 +1,8 @@
-*#Projeto que desenvolvi para o meu TCC#*
+ ## *Projeto que desenvolvi para o meu TCC*                    
+ 
+ ## FightStore
 
-*Bruno Aparecido Rodrigues*
+## *Bruno Aparecido Rodrigues*
 
 
 ![brunoo](https://github.com/user-attachments/assets/b883947a-f814-4aed-a7f7-b6115859c115)
