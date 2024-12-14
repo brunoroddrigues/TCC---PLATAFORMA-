@@ -40,6 +40,7 @@ Além da loja, a plataforma oferece **páginas de conteúdo educativo**, com art
 - **Jiu-Jitsu**
 - **Karate**
 - **Capoeira**
+- **Kickboxing**
 - **Muay Thai**
 - **Boxe**
 - **Kung Fu**
