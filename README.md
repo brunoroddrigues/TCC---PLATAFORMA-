@@ -7,11 +7,17 @@
 #Página inicial
 ![brunoo](https://github.com/user-attachments/assets/b883947a-f814-4aed-a7f7-b6115859c115)
 
+#Página educacional
+![8 - Copia](https://github.com/user-attachments/assets/91590590-cf39-49d7-8323-ebcdd356fb46)
+
+
 #Loja
 ![Sem título](https://github.com/user-attachments/assets/26e8ab13-dcfc-4e6e-9210-04e088925426)
 
 #Pagamento
 ![16](https://github.com/user-attachments/assets/13dddd10-1919-4a34-8563-4e34e8ac474a)
+
+
 
 
 
