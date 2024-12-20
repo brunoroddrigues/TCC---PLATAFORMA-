@@ -1,4 +1,4 @@
- ## *Projeto que desenvolvi para o meu TCC*                    
+ ## *Projeto que desenvolvi para o meu TCC* - Fatec Jahu
  
  ## FightStore
 
@@ -18,6 +18,10 @@
 
 #Pagamento
 ![16](https://github.com/user-attachments/assets/13dddd10-1919-4a34-8563-4e34e8ac474a)
+
+#Página de Administrador
+![adm](https://github.com/user-attachments/assets/0af4b091-a693-429e-b87c-4b84016c9b94)
+
 
 
 
